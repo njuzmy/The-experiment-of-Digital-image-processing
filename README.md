@@ -9,4 +9,4 @@ Use different methods to complete edge detection and use edge link functions to 
 ## experiment3
 Character recognition: calculate the result of addition and subtraction from the picture
 
-[](实验三/doc/picture.PNG)
+![Image text](https://github.com/njuzmy/The-experiment-of-Digital-image-processing/实验三/doc/picture.PNG)
